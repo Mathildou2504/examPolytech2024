@@ -1,0 +1,55 @@
+Mathilde GAGNEUR
+5A IA2R FISA
+Polytech Nancy
+
+1. Qu'est-ce que Docker ? À quoi cela sert-il ?
+
+Docker est une plateforme qui permet de créer, déployer et exécuter différentes applications dans des conteneurs
+qui regroupe ce dont une application a besoin pour s'exécuter.
+Les conteneurs ont le même noyau que l'hôte, ils tournent donc plus vite que des machines virtuelles.
+Chaque conteneur est isolé et fonctionne de manière indépendante.
+Docker permet de faire croire à chaque container qu'il est seul sur la machine.
+
+
+2. Qu'est-ce que la CI et la CD ? Pourquoi est-ce utile ?
+
+CI : Continuous Integration
+
+La CI est une pratique où les développeurs intègrent fréquemment leur code dans une branche commune,
+souvent plusieurs fois par jour. Chaque intégration déclenche automatiquement une suite de tests pour valider le code.
+Elle mpermet donc de détecter des erreurs de code.
+
+CD : Continuous Delivery - Continuous Deployment
+
+Continuous Delivery : Le processus va plus loin que la CI en s'assurant que le code validé peut être déployé à tout moment.
+Les déploiements sont manuels.
+
+Continuous Deployment : Automatisation totale du processus de déploiement.
+Tout code validé qui passe les tests est automatiquement déployé en production.
+
+Cela permet de réduire le temps nécessaire pour livrer de nouvelles fonctionnalités et de rendre
+le processus de déploiement moins risqué (code du vendredi soir :) ).
+
+
+3. Qu'avez vous pensez du cours ?
+
+J'ai beaucoup aimé le cours malgré le fait que les sujets abordés ne sont pas utiles dans mon entreprise.
+Malgré mon retard par rapport à d'autres personnes, j'ai réussi à comprendre de nombreuses choses.
+Le cours était bien organisé.
+
+4.Surprenez moi
+
+            ##        .
+      ## ## ##       ==
+   ## ## ## ##      ===
+ /""""""""""""""""___/ ===
+{                       /  ===-
+ \______ O           __/
+   \    \         __/
+    \____\_______/
+
+    Pourquoi les baleines utilisent-elles Docker ?
+
+
+
+    Parce qu'elles adorent travailler en conteneurs !

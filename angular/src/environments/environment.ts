@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  backendUrl: 'http://localhost:8448'
+  backendUrl: '"$JAVA_URL"'
 };
